@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9555
 description: Commander John Hanson recalls his harrowing expedition among the giant
   spiders of FX-31.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29309#The-Death-Traps-of-FX-31
 gutenberg_bookshelf:
 - Science Fiction
 - Astounding Stories
