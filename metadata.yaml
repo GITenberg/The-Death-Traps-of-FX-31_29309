@@ -1,0 +1,30 @@
+_repo: The-Death-Traps-of-FX-31_29309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wright, Sewell Peaslee
+    birthdate: 1897
+    deathdate: 1970
+    gutenberg_agent_id: '9555'
+    url: http://www.gutenberg.org/2009/agents/9555
+description: Commander John Hanson recalls his harrowing expedition among the giant
+  spiders of FX-31.
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Death-Traps of FX-31
+url: http://www.gutenberg.org/ebooks/29309
